@@ -1,8 +1,0 @@
-{
-  "name": "Power BI Chat",
-  "description": "AI-powered semantic model assistant that can analyze your entire data model",
-  "path": "C:\\Users\\SYSADM.DERONB18\\Desktop\\PowerBI-roosi\\powerbi-chat-semantic-model\\node_modules\\electron\\dist\\electron.exe",
-  "arguments": "\"C:\\Users\\SYSADM.DERONB18\\Desktop\\PowerBI-roosi\\powerbi-chat-semantic-model\" \"Server=%server%;Database=%database%;ApplicationName=PowerBI\"",
-  "version": "1.0.0",
-  "iconData": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA/0lEQVR4nGNkoAB8OiH4H8bms3jPSI4ZTNSwHBuf5g6gFhi6DkCPc3LTAMWgoqKJrLiHARY8chokmEOs2hvoAriCTePZi9fXSXAAUUBKQlQT3RHY0gBNLGdgYGCAmosSWugOoJnluBwx4NmQ8eixUyipWFFJEUOR1PXdcPYzTVeChhJSf//efTibYAggG4aNT6n6AY+Cwe8A9DgklAZIVY+vJCTaEErUD/4oGPYOQK+MsBbFYSGBZFuwas16DDHkSolgCFBiOTH6CToAmw9IAYT0E5UNKXUEPjDgiXDUAegOuAHNIjQD6O1CbCFAM0dga5Ti60yQ0iwnFmA0y0cBAD/MVNZebnrjAAAAAElFTkSuQmCC"
-}
