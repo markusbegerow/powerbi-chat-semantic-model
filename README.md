@@ -2,6 +2,8 @@
 
 An AI-powered Power BI External Tool that provides an intelligent chat interface to analyze and interact with your Power BI semantic models in real-time.
 
+<img width="1186" height="793" alt="image" src="https://github.com/user-attachments/assets/61351f14-5df8-4ab9-aa6a-6471112f825e" />
+
 ## Overview
 
 Power BI Chat is an Electron-based desktop application that integrates directly with Power BI Desktop as an External Tool. It connects to your semantic model via XMLA endpoints, retrieves metadata and sample data, and uses AI to help you understand and query your data model.
